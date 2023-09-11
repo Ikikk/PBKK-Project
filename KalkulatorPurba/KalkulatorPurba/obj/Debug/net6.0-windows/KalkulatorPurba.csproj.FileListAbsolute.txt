@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\bin\Debug\net6.0-windows\KalkulatorPurba.exe
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\bin\Debug\net6.0-windows\KalkulatorPurba.deps.json
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\bin\Debug\net6.0-windows\KalkulatorPurba.runtimeconfig.json
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\bin\Debug\net6.0-windows\KalkulatorPurba.dll
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\bin\Debug\net6.0-windows\KalkulatorPurba.pdb
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.Form1.resources
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.dll
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\refint\KalkulatorPurba.dll
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.pdb
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\KalkulatorPurba.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KalkulatorPurba\KalkulatorPurba\obj\Debug\net6.0-windows\ref\KalkulatorPurba.dll
